@@ -1,3 +1,3 @@
 module github.com/derekscp-org/gopublishtest
 
-go 1.20
+go 1.17
